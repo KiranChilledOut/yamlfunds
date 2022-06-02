@@ -1,0 +1,3 @@
+timestamp: 2022-03-22T22:19:56.10+02:00
+simpledate: 2022-03-22
+not_a_date: !!str 2022-03-22

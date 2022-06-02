@@ -1,0 +1,14 @@
+- languages:
+  - programming:
+    - frontend:
+      - html
+      - css
+      - javascript
+    - backend:
+      - python
+      - powershell
+      - c#
+  - dataserialization:
+    - yaml
+    - xml
+    - json

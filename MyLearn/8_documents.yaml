@@ -1,0 +1,12 @@
+#this is an example of documents
+language: yaml
+version: 1.2.2
+---
+#this is a second document
+this is just a string and after this you cannot have a map
+---
+#this is another doc
+key:  val
+---
+#duplicate keys are allowed in a file but needs to be a separate document
+key:  val

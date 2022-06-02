@@ -1,0 +1,6 @@
+being1:
+  name: kiran
+  type: human
+being2:
+  {name: candy,type:  dog}
+

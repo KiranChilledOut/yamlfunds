@@ -1,0 +1,14 @@
+key:  value
+another:  value
+listkey:
+  - val1
+  - val2
+  - val3
+"data serialization language":  yaml
+version:  1.0
+"favorite language":
+  - powershell
+  - python
+  - yaml
+
+  

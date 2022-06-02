@@ -1,0 +1,12 @@
+key:  &var hello world
+refe: *var
+
+computer: &compvar
+  - owner:  Kiran 
+  - ram:  10GB
+  - HDD:  1TB
+
+comp1:  *compvar
+comp2:
+  <<: *compvar
+  owner:  Dayana

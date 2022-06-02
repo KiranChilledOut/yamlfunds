@@ -1,0 +1,17 @@
+tool: yaml
+version: 1.2
+awesome:  true
+nothing:  null
+duplicateKeys:  not allowed
+stringscalar_noquotes: whatever without quotes
+stringscalar_quotes_double:  "whatever with double quotes"
+stringscalar_quotes_single: 'whatever with single quotes'
+escape: "He says - \"EBGDAE\"- escaping can only be done in double quotes"
+float:  1.29383
+octal:  012345671 #always starts with a 0
+hexadecimal:  0xABC #always starts with 0x
+booleantrue:  true
+booleanfalse: false
+booleannull:  null
+
+
